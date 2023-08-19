@@ -1,0 +1,185 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #222;
+    color: #0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-section {
+    padding: 50px;
+    text-align: center;
+}
+
+.skill {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.skill-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #444;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.flutter {
+    width: 95%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.dart {
+    width: 95%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.java {
+    width: 70%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.spring {
+    width: 60%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.python {
+    width: 70%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.mysql {
+    width: 70%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.postgresql {
+    width: 70%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.docker {
+    width: 60%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.aws {
+    width: 60%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+.gcp {
+    width: 60%;
+    background-color: #0f0;
+    height: 100%;
+}
+
+/* .skills-section {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.skill {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.skill-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #ddd;
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress {
+    width: 70%;
+    /* Cambia este valor para mostrar el progreso */
+/* background-color: #372ed6b3;
+    height: 100%;
+} */
+
+
+
+/* .skills{
+    width: 500px;
+    margin: 60px auto;
+    color: white;
+}
+
+.skills li{
+    margin: 20px 0;
+}
+
+.bar{
+    background: #353b48;
+    display: block;
+    height: 2px;
+    border: 1px solid rgba(0,0,0,0.3);
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0 0 10px #372ed6b3;
+}
+
+.bar span{
+    height: 20px;
+    float: left;
+    background: #ffffff;  
+}
+
+.html{
+    width: 50%;
+} */
+
+
+/* .flutter{
+    width: 90%;
+    animation: html 2s;
+}
+
+.dart{
+    width: 80%;
+}
+
+.java{
+    width: 50%;
+}
+
+.spring{
+    width: 60%;
+}
+
+.python{
+    width: 80%;
+}
+
+@keyframes html {
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+    
+} */
